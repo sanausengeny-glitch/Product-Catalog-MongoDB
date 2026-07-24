@@ -15,15 +15,15 @@ The system uses:
 Product-Catalog
 
 ├── mongodb  
-│   ├── product_filters.js  
-│   └── product_aggregation.js  
+│ ├── product_filters.js  
+│ └── product_aggregation.js  
 
 ├── redis  
-│   ├── product_cache.py  
-│   └── leaderboard.py  
+│ ├── product_cache.py  
+│ └── leaderboard.py  
 
 └── postgres  
-    └── semantic_search.sql  
+  └── semantic_search.sql  
 
 ## Technologies Used
 
