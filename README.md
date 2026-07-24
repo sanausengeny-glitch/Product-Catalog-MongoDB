@@ -1,4 +1,4 @@
-# Product Catalog System#
+# Product Catalog System
 
 ## Project Description
 
@@ -42,7 +42,7 @@ Results:
 - Wireless Mouse - $25
 - Bluetooth Headphones - $120
 
-### Aggregation Results##
+### Aggregation Results
 
 Average product rating by category:
 
