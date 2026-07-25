@@ -1,0 +1,7 @@
+ZADD product_prices 25 "Wireless Mouse"
+ZADD product_prices 80 "Bluetooth Speaker"
+ZADD product_prices 150 "Office Chair"
+ZADD product_prices 120 "Gaming Keyboard"
+ZADD product_prices 180 "Coffee Table"
+
+ZREVRANGE product_prices 0 -1 WITHSCORES
