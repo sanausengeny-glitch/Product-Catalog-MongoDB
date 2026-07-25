@@ -1,0 +1,7 @@
+Terminal 1
+
+SUBSCRIBE inventory
+
+Terminal 2
+
+PUBLISH inventory "Wireless Mouse stock updated to 45"
