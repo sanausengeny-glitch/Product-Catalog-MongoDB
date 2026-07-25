@@ -1,0 +1,5 @@
+SET catalog_product_count 5 EX 300
+
+GET catalog_product_count
+
+TTL catalog_product_count
